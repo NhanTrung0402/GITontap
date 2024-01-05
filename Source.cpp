@@ -15,5 +15,5 @@ int tong(int a[], int n){
 		sum+=a[i];
 	}
 
-	return tong;
+	cout<<sum;
 }
